@@ -115,7 +115,7 @@ export default {
   }
    
    .wrapper{
-      width: 70% !important;
+      width: 80% !important;
       margin: 0 auto !important;
      
    }
